@@ -22,6 +22,7 @@ namespace Projekt_Serwer
         {
             string hubileszcz;
             hubileszcz = "dupa";
+            int huj = 6;
         }
     }
 }
